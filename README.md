@@ -9,7 +9,7 @@ A no-library, multi-server discord bot made with Deno.
 - Run this command: ```deno run --allow-read --allow-write --allow-net connect_and_listen.js```
 - In your server, type `.install` to set the level-up roles up and `.welcome` in the channel you want welcome messages to appear in
 
-#### Features
+#### Features:
 - No dependency on a library
 - Basic mod commands (ban, kick, mute, unmute)
 - May add more example user commands in future (games/interactions)
