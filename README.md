@@ -11,5 +11,13 @@ A no-library, multi-server discord bot made with Deno.
 
 #### Features:
 - No dependency on a library
-- Basic mod commands (ban, kick, mute, unmute)
+- Moderation commands
 - May add more example user commands in future (games/interactions)
+
+#### Commands:
+Prefix: `.`
+- ban
+- kick
+- mute
+- unmute
+- ping
